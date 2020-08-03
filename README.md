@@ -20,7 +20,11 @@ https://catalog.data.gov/dataset/motor-vehicle-collisions-vehicles
 https://catalog.data.gov/dataset/motor-vehicle-collisions-person
 
 B-	Transformation 
+
+
 I had first started by extracting the desired data from the original datasets by dropping unwanted columns, and created three tables in the process:
+
+
 	Vehicle table 
 The table is centered on the car 's information. This table took birth from the Motor Vehicle Collision-Vehicle ‘s dataset. 
  
@@ -32,6 +36,7 @@ The table focuses on the data related to the event. The collision table from bot
 
  
 Junction tables
+
 After getting new datasets from the principal ones I then created junction tables where I also stored attribute(s) of the relationship between tables before cleaning. 
 
  
